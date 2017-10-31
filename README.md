@@ -1,4 +1,8 @@
-# CapsNet-Tensorflow
+# capsule_networks
+
+## Overview
+
+This is the code for [this](https://youtu.be/VKoLGnq15RM) video on Youtube by Siraj Raval on Capsule Networks. 
 
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=plastic)](CONTRIBUTING.md)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=plastic)](https://opensource.org/licenses/Apache-2.0)
@@ -97,3 +101,7 @@ Results after fix Issues #8:
 	* Adjusting model structure
 
 - There is [another new paper](https://openreview.net/pdf?id=HJWLfGWRb) about capsules(submitted to ICLR 2018), follow-up.
+
+## Credits 
+
+Credits for this code go to [naturomics](https://github.com/naturomics/CapsNet-Tensorflow). I've merely created a wrapper to get people started. 
