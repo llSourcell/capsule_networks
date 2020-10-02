@@ -1,8 +1,8 @@
-# capsule_networks
+# capsule_networks - an amazing project
 
 ## Overview
 
-This is the code for [this](https://youtu.be/VKoLGnq15RM) video on Youtube by Siraj Raval on Capsule Networks. 
+Given is the code for [this](https://youtu.be/VKoLGnq15RM) video on Youtube by Siraj Raval on Capsule Networks. 
 
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=plastic)](CONTRIBUTING.md)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=plastic)](https://opensource.org/licenses/Apache-2.0)
